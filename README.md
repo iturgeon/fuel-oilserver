@@ -31,7 +31,7 @@ in app/config/config.php add oilserver to 'always_load' > 'packages' array
 		// Add it in
 		'oilserver',
 	),
-```php
+```
 
 
 Usage
